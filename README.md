@@ -8,7 +8,13 @@ HEL-FedRec addresses these challenges through three core innovations: - 🔐 Tra
 Extensive experiments on 5 real-world datasets demonstrate that HEL-FedRec achieves SOTA privacy protection (inference F1 score = 0) while maintaining competitive recommendation performance.
 ________________________________________
 🏗️ Framework Overview
-![HEL-FedRec Framework](figure/framework.pdf)
+<p align="center">
+  <img src="figure/framework.png" alt="HEL-FedRec Framework" width="800"/>
+</p>
+
+**Figure 1**: The overall architecture of HEL-FedRec. 
+Clients train local recommenders, encrypt parameters with Paillier, 
+and upload to the server for homomorphic aggregation.
 
 ___________________________________
 📊 Experimental Results
