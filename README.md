@@ -8,10 +8,11 @@ HEL-FedRec addresses these challenges through three core innovations: - 🔐 Tra
 Extensive experiments on 5 real-world datasets demonstrate that HEL-FedRec achieves SOTA privacy protection (inference F1 score = 0) while maintaining competitive recommendation performance.
 ________________________________________
 🏗️ Framework Overview
-System Architecture
+![HEL-FedRec Framework](figure/framework.pdf)
 
 ___________________________________
 📊 Experimental Results
+
 
 ________________________________________
 🚀 Environment
