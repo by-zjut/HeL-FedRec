@@ -27,13 +27,13 @@ ___________________________________
 
 
 ________________________________________
-🚀 Environment
-Requirements
-•	Python >= 3.8
-•	PyTorch >= 1.12
-•	NumPy, SciPy
-•	phe (Paillier encryption library)
+## 🚀 Environment
 
-> **Note**: This repository contains a preview of our implementation. 
-> The complete codebase, including all experiments and baselines, 
-> will be fully open-sourced upon paper acceptance.
+### Requirements
+
+- Python >= 3.8
+- PyTorch >= 1.12
+- NumPy, SciPy
+- [phe](https://github.com/data61/python-paillier) — Paillier encryption library
+
+> **Note**: This is a preview release. The complete codebase will be open-sourced upon paper acceptance.
