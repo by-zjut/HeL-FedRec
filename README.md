@@ -21,7 +21,7 @@ ___________________________________
 **Table 3.** Performance of attribute-inference attack under HEL-FedRecs and FedRecs. HEL-FedRec achieves F1 = 0 against KNN and AIA attacks on all datasets.
 
 <p align="center">
-  <img src="figure/attack.png" alt="Performance of Attribute-Inference Attack" width="800"/>
+  <img src="figure/attack.png" alt="Performance of Attribute-Inference Attack" width="600"/>
 </p>
 
 
