@@ -18,7 +18,9 @@ and upload to the server for homomorphic aggregation.
 
 ___________________________________
 ### 📊 Experimental Results
+![Performance of Attribute-Inference Attack](figure/attack.png)
 
+**Figure 3.** Performance of attribute-inference attack under HEL-FedRecs and FedRecs. HEL-FedRec achieves F1 = 0 against KNN and AIA attacks on all datasets.
 
 ________________________________________
 🚀 Environment
